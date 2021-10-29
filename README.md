@@ -1,5 +1,3 @@
-# IncomePrediction
-
 # Adult Census Income Prediction
 
 This project aims to show the usage of machine learning and data science techniques in providing a solution to the income equality problem
